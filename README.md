@@ -25,6 +25,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### Notes
 Describe any challenges encountered while building the app.
+I had an issue with the posters' sizes, they looked small on the screen despite the fact that i followed the coding instructions carefully. I fixed this by selecting the collectionview of the Superhero ViewController in Main.storyboard, then i selected "show the size inspector" the triangle icon and changed the propriety "Estimate size" to None.
 
 ---
 
